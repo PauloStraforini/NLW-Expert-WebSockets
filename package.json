@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/PauloStraforini/NLW-Expert-WebSockets#readme",
   "dependencies": {
+    "@fastify/cookie": "^11.0.2",
     "@prisma/client": "^6.16.2",
     "@types/node": "^24.5.1",
     "eslint": "8.57.1",
